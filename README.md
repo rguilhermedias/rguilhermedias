@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme! 👋
+# Olá, eu sou o Guilherme!
 
 Estudante de **Engenharia de Computação** na FAESA, desenvolvedor focado no ecossistema **.NET** e com sólida experiência em suporte técnico e infraestrutura de TI.
 
