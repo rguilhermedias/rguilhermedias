@@ -3,7 +3,7 @@
 Estudante de **Engenharia de Computação** na FAESA, desenvolvedor focado no ecossistema **.NET** e com sólida experiência em suporte técnico e infraestrutura de TI.
 
 - 🎓 Graduando em Engenharia de Computação (2020 - 2026).
-- 💻 Especialista em **C#**, **.NET Framework** e **SQL**.
+- 💻 Desenvolvedor em **C#**, **.NET Framework** e **SQL**.
 - 🛠️ Experiência prática em arquitetura de software, persistência de dados e hardware.
 
 ---
