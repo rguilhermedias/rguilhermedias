@@ -20,4 +20,4 @@ O **[Vero](https://github.com/r.guilhermedias/Vero-Restaurant-Management)** é u
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dias-monteiro-ribeiro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rguilhermedias)
